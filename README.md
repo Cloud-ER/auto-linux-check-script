@@ -15,6 +15,10 @@ Rerference
 > 네이버 클라우드 https://github.com/NaverCloudPlatform/ncp-linux-checker을 참고해서 해당 스크립트르 작성 <br>
 > Clouder Team 검토 <br>
 
+Plan
+=====
+> Shell Scripts -> Python -> Ansible <br> 
+
 스크립트 실행
 =============
 <pre><code>
